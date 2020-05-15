@@ -1,0 +1,229 @@
+.container-fluid{
+ background-color: #3b5998;
+ justify-content: flex-start;
+ justify-content: center;
+ padding-right: 5em;
+ padding-left: 0em;
+ padding-top: 2ex;
+ padding-bottom: 1ex;
+}
+a.mx-2{
+    background-color: #3b5998;
+}
+div.space{
+    padding-right: 25em;
+}
+.heading{
+    padding-top: 2em;
+    color:royalblue;
+}
+.hed{
+    color: green;
+}
+p.p1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 3em;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-bottom: 1em;
+    margin: 1em;
+}
+p.p2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top:1em;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-bottom: 1em;
+    margin: 1em;
+}
+p.p3{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 1em;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-bottom: 1em;
+    margin: 1em;
+}
+p.p4{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 1em;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-bottom: 1em;
+    margin: 1em;
+}
+.r1row{
+background-color: #3b5998;
+font-optical-sizing: 2px;
+}
+div.two{
+   background-color: rgb(0, 80,230);
+    padding-top: 4em;
+    padding-bottom: 5em;
+    padding-left: 2em;
+    padding-right: 2em;
+    color: aliceblue;
+    font-style: italic;
+    box-shadow: 5px,10px;
+}
+div.container{
+    padding-top:2em;
+}
+.heading1{
+    color:royalblue;
+    padding-top: 3ex;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.hed1{
+    color: green;
+}
+.c4{
+    background-color: rgb(253, 251,251);
+    display: flex;
+    display: inline-block;
+    width: 360px;
+    height: 180px;
+    padding: 2em,2em,2em,2em;
+    margin: 1em,1em,1em,1em;
+   -moz-box-shadow: 5px,5px,5px #ccc inset;
+   -webkit-box-shadow: 5px,5px,5px #ccc inset;
+   box-shadow: 5px,5px,5px #ccc;
+   padding-top: 3em;
+   margin-left: 1em;
+}
+.headings{
+    color: rgb(52,100,255);
+}
+.four{
+    background-color: rgb(223, 221,221);
+}
+fl{
+    border:2px solid white;
+    float: right;
+    width:200px;
+    height: 400px;
+    overflow: scroll;
+    margin: 10px;
+    text-decoration: justify;
+    text-align: justify;
+    margin: 0 5em 5em;
+    padding-left: 6em;
+}
+p.saylani-scroll{
+    overflow:scroll;padding-right: 2em;
+    padding-left: 3em;
+    width: 400px;
+    height 200px;
+    float: right;
+    position: relative;
+    right: 0em;
+    left: 7em;
+    padding-top:1em;
+    padding-right:2em;
+    ::-webkit-scrollbar-button{
+        background:grey;
+    }
+}
+
+h3.heading1{
+    float: right;
+    margin: 2px 2px 2px;
+    position: relative;
+    bottom:2em;
+    right: 8.5em;
+}
+.image-forward{
+    position: relative;
+   left:31.5em;
+   top:1em;
+   right: 2em;
+    }
+h2.heading-ul{
+    color: royalblue;
+    right:30%;
+    position: relative;
+    bottom:5rem;
+    right: 0em;
+    position: center;
+ }
+ u.underline2{
+     text-underline-position: below;
+     text-decoration: underline green;
+     bottom: 3em;
+ }
+ .hepatitis{
+     right:13em;
+     bottom: 8em;
+     color: royalblue;
+     box-shadow: 0px,0px,10px,0px black inset;
+     margin: 0px,5px,5px,0px;
+ }
+.house{
+    right:20em;
+    bottom: 8em;
+    color: royalblue;
+    box-shadow: 0px,0px,10px,0px black inset;
+    margin: 0px,5px,5px,0px;
+}
+.IT{
+    right:13em;
+    bottom: 8em;
+    top:2em;
+    color: royalblue;
+    box-shadow: 0px,0px,10px,0px black inset;
+    margin: 0px,5px,5px,0px;
+
+}
+.THARPARKAR{
+    right:20em;
+    bottom: 8em;
+    top: 2em;
+    color: royalblue;
+    box-shadow: 0px,0px,10px,0px black inset;
+    margin: 0px,5px,5px,0px;
+}
+h1.text-primary{
+    position: relative;
+    right: 0em;
+    left: 10em;
+    bottom: -2em;
+
+}
+
+p.images-top{
+    position: relative;
+    top: 8em;
+}
+.container-fluid1{
+    color:whitesmoke;
+    text-emphasis-color: white;
+    background-color:black;
+}
+.fix{
+    position: fixed;
+    top: 550px;
+    right: 0;
+    width: 30px;
+    height: 30px;
+    border: 3px solid slategrey;
+    color: #ccc;
+    background-color: darkcyan;
+}
+.container2{
+    max-width: 980px;
+min-width: 550px;
+}
+.rashan-bottom{
+    position: relative;
+    bottom: 8.5em;
+}
+.hazrat-bottom{
+    position: relative;
+    left: 26em;
+    bottom: 8.5em;
+}
+.rashan{
+    position: relative;
+    left:10em;
+    top:8em;
+}
